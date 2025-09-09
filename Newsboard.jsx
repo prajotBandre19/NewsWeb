@@ -5,7 +5,7 @@ const Newsboard=({category}) =>{
     const [articles,setArticles]=useState([])
 
     useEffect(()=>{
-        let url=`https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=6b2c4ecd9e4244369777437537886a9c`
+        let url=`https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=YOUR_API_KEY`
         fetch (url).then(response=>response.json())
         .then(data=>setArticles(data?.articles || [] ))
       .catch((err) => console.error("Error fetching news:", err));
@@ -24,3 +24,4 @@ const Newsboard=({category}) =>{
 }
 
 export default Newsboard
+
