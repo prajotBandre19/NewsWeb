@@ -34,11 +34,3 @@ User authentication (personalized feeds)<br/>
 <img width="1352" height="613" alt="newsweb3" src="https://github.com/user-attachments/assets/a7cb72e0-a8b4-49b9-8a33-e41fc25840ae" /><br/>
 
 
-
-
-
-
-
-Infinite scrolling for articles
-
-User authentication (personalized feeds)
