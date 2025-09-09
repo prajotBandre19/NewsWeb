@@ -25,11 +25,6 @@ Free tier: 100 requests per day<br/>
 Dark mode toggle 🌙  <br/>
 Infinite scrolling for articles<br/>
 User authentication (personalized feeds)<br/>
-<br/><br/>
-📸 Screenshots<br/>
-<img width="1350" height="618" alt="newsweb1" src="https://github.com/user-attachments/assets/95079b59-2a8e-48a5-b074-01a89b8b161d" />
-<br/>
-<br/>
-<br/>
+
 
 
