@@ -4,13 +4,11 @@ A responsive news web application built with React.js, Vite, Bootstrap, and News
 This project fetches the latest news articles in real-time and displays them in various categories such as General, Entertainment, Sports, Technology, Science, Business, and Health.
 
 🚀 Features
-Latest news updates from NewsAPI.org
+Latest news updates from NewsAPI.org<br/>
 Category-based browsing (General, Entertainment, Sports, Technology, Science, Business, Health)
 Responsive design using Bootstrap
 Reusable News Card component with article image, title, description, and source link
 Loading and error handling states
-Pagination / Load more functionality
-Search news by keywords
 
 🛠️ Tech Stack
 React.js – Frontend library
