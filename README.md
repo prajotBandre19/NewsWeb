@@ -26,5 +26,12 @@ Dark mode toggle 🌙  <br/>
 Infinite scrolling for articles<br/>
 User authentication (personalized feeds)<br/>
 
+📸 ScreenShots<br/>
+<img width="1350" height="618" alt="newsweb1" src="https://github.com/user-attachments/assets/0372e8cd-6dd2-49b3-b38e-857e9852501d" />
+<br/>
+<img width="1356" height="613" alt="newsweb2" src="https://github.com/user-attachments/assets/42f9848c-4799-4257-a70b-1d11a2745c03" />
+<br/>
+<img width="1352" height="613" alt="newsweb3" src="https://github.com/user-attachments/assets/69f07509-b8d0-4efc-a1e6-84c75953ee5c" />
+
 
 
